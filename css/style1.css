@@ -1,0 +1,42 @@
+* {
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+}
+
+body {
+	background: black;
+}
+
+.file {
+	border: none;
+	width: 255px;
+	height: ;
+}
+
+.images {
+	width: 100px;
+	border: 1px solid white;
+	height: 100px;
+}
+
+fieldset {
+	text-align: center;
+}
+
+table {
+	display: inline-block;
+}
+
+.round {
+	border-radius: 20px;
+	border:none;
+	width: 150px;
+	height: 35px;
+}
+
+.white {
+	color: white;
+}
