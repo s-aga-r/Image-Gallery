@@ -1,5 +1,5 @@
 # Image-Gallery
- A sample project for image gallery created using HTML, CSS and PHP(Core) for practice.
+ A sample project for image gallery, created using HTML, CSS and PHP(Core).
  
  ![1](https://user-images.githubusercontent.com/63660334/122643117-9cd5fa80-d12b-11eb-9d65-841676481b1c.png)
 
